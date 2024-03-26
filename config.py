@@ -1,1 +1,1 @@
-HUGGING_FACE_TOKEN = “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” 
+HUGGING_FACE_TOKEN = "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" 
